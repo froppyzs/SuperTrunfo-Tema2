@@ -2,8 +2,9 @@
 
 Trata-se de um trabalho acadêmico simples da reprodução do jogo Super Trunfo em linguagem C. E, desta vez, com o objetivo de praticar conceitos como:
 
- - Estruturas condicionais como (switch case) e (if-else)
- - Operdor ternário
+ - Estruturas condicionais: 'switch-case' e 'if-else'
+ - Uso do operador ternário
 
-Este é apenas um projeto introdutório para práticar! Então não apresenta o jogo completo 100%.
 Nível do desafio: Mestre.
+
+_Este é apenas um projeto de introdução prática! Então não apresenta a versão completa 100% do jogo._
